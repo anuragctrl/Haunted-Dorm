@@ -1,0 +1,28 @@
+{
+  "id": 150,
+  "icon": "/dynamic_game_haunted_dorm/icon.jpg",
+  "image": "https://res.cheerfulgames2023.com/sg/res/jpg/12/ee/bfa8a95677fe09f27b8535ffff67-l5s6.jpg?x-oss-process=style/hq",
+  "jump_type": "webview",
+  "jump_info": {
+    "url": "http://127.0.0.1:%d/dynamic_game_haunted_dorm/index.html"
+  },
+  "publisher": "minigame",
+  "title": "Haunted Dorm",
+  "category": "Classic",
+  "play": 19402,
+  "is_horizontal": 0,
+  "banner_info": {
+    "height": 300,
+    "url": "https://res.cheerfulgames2023.com/sg/res/jpg/d8/78/9850747ba500d06f4ed9921ad5de-yxl2.jpg?x-oss-process=style/hq",
+    "width": 750
+  },
+  "vertical_info": {
+    "height": 405,
+    "url": "/dynamic_game_haunted_dorm/vertical.jpg",
+    "width": 300
+  },
+  "desc": "You enter a dorm, and the dorm is haunted.\nBut don't worry, I've got some help for you.",
+  "pictures": [
+    "https://res.cheerfulgames2023.com/sg/res/jpg/d8/78/9850747ba500d06f4ed9921ad5de-yxl2.jpg?x-oss-process=style/hq"
+  ]
+}

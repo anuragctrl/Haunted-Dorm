@@ -1,0 +1,1 @@
+import ADV from".../ADV";function fun1(){let o;try{console.error("JsCallJavaTool.init(): 初始化!"),(o=PlatformClass.createClass("demo.JSBridge"))&&o.call("GetSystemLanguage"),window.Platform=ADV}catch(o){console.error(`JsCallJavaTool.init(): err ${o}`)}}function fun2(){loadLib("bundle.js")}window.onload=fun1;
